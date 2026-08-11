@@ -1,4 +1,4 @@
-# Sales Data Analysis Report
+# Sales Data Analysis Report (on microsoft Excel only)
 
 ## 1. Introduction
 
